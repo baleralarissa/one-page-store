@@ -16,5 +16,6 @@ Modelo de loja online página única com função de carrinho.
 ### 🚧 WIP
 - Modal carrinho 
 - Função do carrinho de compras
+- Função hide nas seções de produtos
 
 
