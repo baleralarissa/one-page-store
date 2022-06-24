@@ -15,6 +15,6 @@ Modelo de loja online página única com função de carrinho.
 
 ### 🚧 WIP
 - Modal carrinho 
-- API carrinho de compras
+- Função do carrinho de compras
 
 
